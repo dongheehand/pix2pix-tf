@@ -75,6 +75,5 @@ Experimental results on edges2shoes dataset
 ## Comments
 If you have any questions or comments on my codes, please email to me. [son1113@snu.ac.kr](mailto:son1113@snu.ac.kr)
 
-
-###References
+##Reference
 [1] https://github.com/phillipi/pix2pix
