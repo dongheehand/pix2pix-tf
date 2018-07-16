@@ -1,0 +1,6 @@
+*.ipynb
+model
+temp
+dataSet
+result*
+__pycache__
