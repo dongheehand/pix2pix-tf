@@ -29,12 +29,14 @@ python main.py --mode test --val_data_path ./dataSet/facedes/val --transfer_type
 Shell script which downloads datasets will be uploaded soon!
 
 ## Pre-trained model
-Pre-trained model will be uploaded soon!
-
+- [facades](https://drive.google.com/open?id=18mlN5GNQ7eWf-il6zPiIvVzdvCFrIxPC)
+- [map2aerial](https://drive.google.com/open?id=1VJHSDaDlDWDO366HVVwxNqlA_IKfNcbm)
+- [aerial2map](https://drive.google.com/open?id=1o-rB6CVjbR5FIvNTIk_d98JLNJt1o8ps)
+- [edges2shoes](https://drive.google.com/open?id=1mJ_CwOJrb0azU4OBdLYUCwTLDpYEQhWe)
 
 ## Experimental Results
 
-Experimental results on map dataset(map to ariel)
+Experimental results on map dataset(map to aeriel)
 
 | Input | result | Target |
 | --- | --- | --- |
@@ -43,7 +45,7 @@ Experimental results on map dataset(map to ariel)
 | <img src="images/map2ariel/611_input.png" width="256px"> | <img src="images/map2ariel/611_gene.png" width="256px"> | <img src="images/map2ariel/611_GT.png" width="256px"> |
 | <img src="images/map2ariel/613_input.png" width="256px"> | <img src="images/map2ariel/613_gene.png" width="256px"> | <img src="images/map2ariel/613_GT.png" width="256px"> |
 
-Experimental results on map dataset(ariel to map)
+Experimental results on map dataset(aeriel to map)
 
 | Input | result | Target |
 | --- | --- | --- |
