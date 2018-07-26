@@ -1,18 +1,9 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 import glob
 import os
 import numpy as np
 from PIL import Image
 import tensorflow as tf
 from model import pix2pix
-
-
-# In[ ]:
 
 
 def train(conf):
